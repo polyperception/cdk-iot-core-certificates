@@ -29,8 +29,8 @@ const project = new awscdk.AwsCdkConstructLibrary({
     },
     majorVersion: 1,
     publishToPypi: {
-        distName: 'devops-at-home.cdk-iot-core-certificates',
-        module: 'devops_at_home_cdk_iot_core_certficates',
+        distName: 'cdk-iot-core-certificates',
+        module: 'cdk_iot_core_certficates',
     },
 });
 
