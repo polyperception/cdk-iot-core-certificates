@@ -26,7 +26,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
     },
     autoApproveUpgrades: true,
     autoApproveOptions: {
-        allowedUsernames: ['devops-at-home'],
+        allowedUsernames: ['nbraem'],
     },
     majorVersion: 1,
     publishToPypi: {
